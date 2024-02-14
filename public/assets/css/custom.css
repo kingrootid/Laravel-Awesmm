@@ -1,0 +1,4 @@
+.remaining-storage {
+    display: flex;
+    justify-content: space-between;
+}
